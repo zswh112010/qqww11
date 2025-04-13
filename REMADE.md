@@ -1,3 +1,4 @@
+
 # 文本特征提取项目
 
 ## 代码核心功能说明
@@ -146,3 +147,11 @@ if __name__ == "__main__":
     for filename in test_files:
         result = classifier.predict(f'邮件_files/{filename}')
         print(f'{filename}分类情况: {result}')
+        
+# 示例代码结果图
+![Uploading 示例代码结果图.png…]()
+
+# classify结果图
+![Uploading classify结果图.png…]()
+
+        
