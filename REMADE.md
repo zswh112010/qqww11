@@ -149,9 +149,10 @@ if __name__ == "__main__":
         print(f'{filename}分类情况: {result}')
         
 # 示例代码结果图
-![Uploading 示例代码结果图.png…]()
+<img width="890" alt="3 1" src="https://github.com/zswh112010/qqww11/blob/main/task4/classify%E7%BB%93%E6%9E%9C%E5%9B%BE.png" />
 
 # classify结果图
-![Uploading classify结果图.png…]()
+<img width="890" alt="3 1" src="https://github.com/zswh112010/qqww11/blob/main/task4/%E7%A4%BA%E4%BE%8B%E4%BB%A3%E7%A0%81%E7%BB%93%E6%9E%9C%E5%9B%BE.png" />
+
 
         
